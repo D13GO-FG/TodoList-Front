@@ -1,3 +1,12 @@
+# Instrucciones !!!!!!
+Por cuestiones de tiempo no pude realizar todos los requerimientos del challenge, este repositorio con el frontend contiene el desarrollo del login y signup usando Redux para el manejo de los estados globales asi como el diseño correspondiente, lo que corresponde al UI del "TodoList" este solo contiene los componentes los cuales de desarrollaron usando material UI y tailwind, en esta version el repositorio solo tiene la funcionalidad de login y signip, y los componentes base para el "TodoList".
+
+Instrucciones para ejecutar repositorio
+- Ejecutar antes el proyecto del backend: https://github.com/D13GO-FG/TodoList-Backend
+- Tener puesto 3000 disponible
+- npm install
+- npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
