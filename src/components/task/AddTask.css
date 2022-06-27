@@ -1,0 +1,9 @@
+.main_input {
+	margin: 10px;
+}
+
+.addTask {
+	margin-top: 15px;
+	justify-content: space-between;
+	display: flex;
+}
